@@ -255,7 +255,7 @@
 .tp-iframe-wrapper.no-width .tp-close,
 .tp-iframe-wrapper.no-height .tp-close,
 .tp-modal.no-width .tp-close,
-.tp-modal.no-height .tp-close {
+.tp-modal.no-height .tp-close { 
     display: none;
 }
 </style><link rel="preload" as="script"><link rel="preload" as="script">
@@ -286,128 +286,128 @@
 
     <hr class="sidepanel-seperator">
 
-    <ul class="new-sidepanel-menu"><li class="new-sidepanel-menu-parent-item has-children" data-id="1"><div><a href="subscribe/splits/goodhousekeeping/ghk_sub_nav_link?source=ghk_sub_nav_left">Subscribe</a><span class="sidepanel-submenu-toggle"></span></div>
+    <ul class="new-sidepanel-menu"><li class="new-sidepanel-menu-parent-item has-children" data-id="1"><div><a href="#" "subscribe/splits/goodhousekeeping/ghk_sub_nav_link?source=ghk_sub_nav_left">Subscribe</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="1">
-<li class="new-sidepanel-submenu-item"><a href="subscribe/splits/goodhousekeeping/ghk_sub_nav_link?source=ghk_print_nav_left">Print Edition</a></li>
-<li class="new-sidepanel-submenu-item"><a href="subscribe/splits/goodhousekeeping/ghk_digital_nav_link?source=ghk_digital_nav_left">Digital Edition</a></li>
-<li class="new-sidepanel-submenu-item"><a href="subscribe/splits/goodhousekeeping/ghk_gift_nav_link?source=ghk_gift_nav_left">Give a Gift</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "subscribe/splits/goodhousekeeping/ghk_sub_nav_link?source=ghk_print_nav_left">Print Edition</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "subscribe/splits/goodhousekeeping/ghk_digital_nav_link?source=ghk_digital_nav_left">Digital Edition</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "subscribe/splits/goodhousekeeping/ghk_gift_nav_link?source=ghk_gift_nav_left">Give a Gift</a></li>
 </ul>
 </li>
-<li class="new-sidepanel-menu-parent-item has-children" data-id="2"><div><a href="product-reviews/">Product Reviews</a><span class="sidepanel-submenu-toggle"></span></div>
+<li class="new-sidepanel-menu-parent-item has-children" data-id="2"><div><a href="#" "product-reviews/">Product Reviews</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="2">
-<li class="new-sidepanel-submenu-item"><a href="gh-seal-spotlight-reviews/">GH Seal Spotlight</a></li>
-<li class="new-sidepanel-submenu-item"><a href="gh-tested-reviews/">GH Tested</a></li>
-<li class="new-sidepanel-submenu-item"><a href="appliances/">Appliances</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home-products/">Home Products</a></li>
-<li class="new-sidepanel-submenu-item"><a href="cooking-tools/">Cooking Tools</a></li>
-<li class="new-sidepanel-submenu-item"><a href="beauty-products/">Beauty Products</a></li>
-<li class="new-sidepanel-submenu-item"><a href="health-products/">Health &amp; Fitness Products</a></li>
-<li class="new-sidepanel-submenu-item"><a href="childrens-products/">Children's Items &amp; Toys</a></li>
-<li class="new-sidepanel-submenu-item"><a href="travel-products/">Cars &amp; Travel Products</a></li>
-<li class="new-sidepanel-submenu-item"><a href="clothing/">Clothing</a></li>
-<li class="new-sidepanel-submenu-item"><a href="electronics/">Electronics</a></li>
-<li class="new-sidepanel-submenu-item"><a href="food-products/">Food &amp; Drink Products</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "gh-seal-spotlight-reviews/">GH Seal Spotlight</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "gh-tested-reviews/">GH Tested</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "appliances/">Appliances</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home-products/">Home Products</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "cooking-tools/">Cooking Tools</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "beauty-products/">Beauty Products</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "health-products/">Health &amp; Fitness Products</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "childrens-products/">Children's Items &amp; Toys</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "travel-products/">Cars &amp; Travel Products</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "clothing/">Clothing</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "electronics/">Electronics</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "food-products/">Food &amp; Drink Products</a></li>
 </ul>
 </li>
-<li class="new-sidepanel-menu-parent-item has-children" data-id="3"><div><a href="home/">Home Ideas</a><span class="sidepanel-submenu-toggle"></span></div>
+<li class="new-sidepanel-menu-parent-item has-children" data-id="3"><div><a href="#" "home/">Home Ideas</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="3">
-<li class="new-sidepanel-submenu-item"><a href="home/decorating-ideas/">Decorating Ideas</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home/cleaning/">Cleaning</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home/organizing/">Organizing</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home/craft-ideas/">Crafts &amp; DIY Projects</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home/gardening/">Gardening &amp; Outdoors</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home/renovation/">Renovation &amp; Repair</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home/decorating-ideas/g770/decor-ideas-master-bedroom/">Bedroom Ideas</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home/decorating-ideas/g1500/decor-ideas-living-room/">Living Room Ideas</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home/decorating-ideas/g2000/decor-ideas-bathroom/">Bathroom Ideas</a></li>
-<li class="new-sidepanel-submenu-item"><a href="home/decorating-ideas/g1872/decor-ideas-kitchen/">Kitchen Ideas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/decorating-ideas/">Decorating Ideas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/cleaning/">Cleaning</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/organizing/">Organizing</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/craft-ideas/">Crafts &amp; DIY Projects</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/gardening/">Gardening &amp; Outdoors</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/renovation/">Renovation &amp; Repair</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/decorating-ideas/g770/decor-ideas-master-bedroom/">Bedroom Ideas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/decorating-ideas/g1500/decor-ideas-living-room/">Living Room Ideas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/decorating-ideas/g2000/decor-ideas-bathroom/">Bathroom Ideas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "home/decorating-ideas/g1872/decor-ideas-kitchen/">Kitchen Ideas</a></li>
 </ul>
 </li>
-<li class="new-sidepanel-menu-parent-item has-children" data-id="4"><div><a href="food-recipes/">Food &amp; Recipes</a><span class="sidepanel-submenu-toggle"></span></div>
+<li class="new-sidepanel-menu-parent-item has-children" data-id="4"><div><a href="#" "food-recipes/">Food &amp; Recipes</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="4">
-<li class="new-sidepanel-submenu-item"><a href="food-recipes/easy/">Quick &amp; Easy Recipes</a></li>
-<li class="new-sidepanel-submenu-item"><a href="food-recipes/healthy/">Healthy Recipes</a></li>
-<li class="new-sidepanel-submenu-item"><a href="dinner-recipes/">Dinner Recipes</a></li>
-<li class="new-sidepanel-submenu-item"><a href="food-recipes/dessert/">Dessert Recipes</a></li>
-<li class="new-sidepanel-submenu-item"><a href="food-recipes/cooking/">Cooking Tips</a></li>
-<li class="new-sidepanel-submenu-item"><a href="food-recipes/party-ideas/">Party Ideas</a></li>
-<li class="new-sidepanel-submenu-item"><a href="food-recipes/news/">Food News</a></li>
-<li class="new-sidepanel-submenu-item"><a href="easy-chicken-recipes/">Chicken Recipes</a></li>
-<li class="new-sidepanel-submenu-item"><a href="easy-soup-recipes/">Soup Recipes</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "food-recipes/easy/">Quick &amp; Easy Recipes</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "food-recipes/healthy/">Healthy Recipes</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "dinner-recipes/">Dinner Recipes</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "food-recipes/dessert/">Dessert Recipes</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "food-recipes/cooking/">Cooking Tips</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "food-recipes/party-ideas/">Party Ideas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "food-recipes/news/">Food News</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "easy-chicken-recipes/">Chicken Recipes</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "easy-soup-recipes/">Soup Recipes</a></li>
 </ul>
 </li>
-<li class="new-sidepanel-menu-parent-item" data-id="5"><a href="recipes/">All Recipes</a></li>
-<li class="new-sidepanel-menu-parent-item has-children" data-id="6"><div><a href="beauty/">Beauty &amp; Style</a><span class="sidepanel-submenu-toggle"></span></div>
+<li class="new-sidepanel-menu-parent-item" data-id="5"><a href="#" "recipes/">All Recipes</a></li>
+<li class="new-sidepanel-menu-parent-item has-children" data-id="6"><div><a href="#" "beauty/">Beauty &amp; Style</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="6">
-<li class="new-sidepanel-submenu-item"><a href="beauty/hair/">Hair Ideas</a></li>
-<li class="new-sidepanel-submenu-item"><a href="beauty/makeup/">Makeup Tips</a></li>
-<li class="new-sidepanel-submenu-item"><a href="beauty/anti-aging/">Skincare</a></li>
-<li class="new-sidepanel-submenu-item"><a href="beauty/nails/">Nails</a></li>
-<li class="new-sidepanel-submenu-item"><a href="hair-color-ideas/">Hair Colors</a></li>
-<li class="new-sidepanel-submenu-item"><a href="beauty/fashion/">Fashion</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "beauty/hair/">Hair Ideas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "beauty/makeup/">Makeup Tips</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "beauty/anti-aging/">Skincare</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "beauty/nails/">Nails</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "hair-color-ideas/">Hair Colors</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "beauty/fashion/">Fashion</a></li>
 </ul>
 </li>
-<li class="new-sidepanel-menu-parent-item has-children" data-id="7"><div><a href="health/">Health</a><span class="sidepanel-submenu-toggle"></span></div>
+<li class="new-sidepanel-menu-parent-item has-children" data-id="7"><div><a href="#" "health/">Health</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="7">
-<li class="new-sidepanel-submenu-item"><a href="health/fitness/">Fitness</a></li>
-<li class="new-sidepanel-submenu-item"><a href="health/wellness/">Wellness</a></li>
-<li class="new-sidepanel-submenu-item"><a href="health/diet-nutrition/">Diet &amp; Nutrition</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "health/fitness/">Fitness</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "health/wellness/">Wellness</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "health/diet-nutrition/">Diet &amp; Nutrition</a></li>
 </ul>
 </li>
-<li class="new-sidepanel-menu-parent-item has-children" data-id="8"><div><a href="life/">Life</a><span class="sidepanel-submenu-toggle"></span></div>
+<li class="new-sidepanel-menu-parent-item has-children" data-id="8"><div><a href="#" "life/">Life</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="8">
-<li class="new-sidepanel-submenu-item"><a href="life/relationships/">Relationships</a></li>
-<li class="new-sidepanel-submenu-item"><a href="life/parenting/">Parenting</a></li>
-<li class="new-sidepanel-submenu-item"><a href="life/pets/">Pets</a></li>
-<li class="new-sidepanel-submenu-item"><a href="life/inspirational-stories/">Inspirational Stories</a></li>
-<li class="new-sidepanel-submenu-item"><a href="life/entertainment/">Entertainment</a></li>
-<li class="new-sidepanel-submenu-item"><a href="life/career/">Career</a></li>
-<li class="new-sidepanel-submenu-item"><a href="life/money/">Money</a></li>
-<li class="new-sidepanel-submenu-item"><a href="life/travel/">Travel</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "life/relationships/">Relationships</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "life/parenting/">Parenting</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "life/pets/">Pets</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "life/inspirational-stories/">Inspirational Stories</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "life/entertainment/">Entertainment</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "life/career/">Career</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "life/money/">Money</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "life/travel/">Travel</a></li>
 </ul>
 </li>
-<li class="new-sidepanel-menu-parent-item has-children" data-id="9"><div><a href="holidays/">Holidays</a><span class="sidepanel-submenu-toggle"></span></div>
+<li class="new-sidepanel-menu-parent-item has-children" data-id="9"><div><a href="#" "holidays/">Holidays</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="9">
-<li class="new-sidepanel-submenu-item"><a href="holidays/gift-ideas/">Gift Ideas</a></li>
-<li class="new-sidepanel-submenu-item"><a href="holidays/halloween-ideas/">Halloween</a></li>
-<li class="new-sidepanel-submenu-item"><a href="holidays/thanksgiving-ideas/">Thanksgiving</a></li>
-<li class="new-sidepanel-submenu-item"><a href="holidays/christmas-ideas/">Christmas</a></li>
-<li class="new-sidepanel-submenu-item"><a href="holidays/easter-ideas/">Easter</a></li>
-<li class="new-sidepanel-submenu-item"><a href="holidays/valentines-day-ideas/">Valentine's Day</a></li>
-<li class="new-sidepanel-submenu-item"><a href="holidays/mothers-day/g511/mothers-day-gifts/">Mother's Day Gift Ideas</a></li>
-<li class="new-sidepanel-submenu-item"><a href="holidays/mothers-day/">Mother's Day</a></li>
-<li class="new-sidepanel-submenu-item"><a href="holidays/fathers-day/">Father's Day</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "holidays/gift-ideas/">Gift Ideas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "holidays/halloween-ideas/">Halloween</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "holidays/thanksgiving-ideas/">Thanksgiving</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "holidays/christmas-ideas/">Christmas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "holidays/easter-ideas/">Easter</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "holidays/valentines-day-ideas/">Valentine's Day</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "holidays/mothers-day/g511/mothers-day-gifts/">Mother's Day Gift Ideas</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "holidays/mothers-day/">Mother's Day</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "holidays/fathers-day/">Father's Day</a></li>
 </ul>
 </li>
-<li class="new-sidepanel-menu-parent-item" data-id="10"><a href="videos/" rel="nofollow">All Videos</a></li>
-<li class="new-sidepanel-menu-parent-item" data-id="11"><a href="https://link.goodhousekeeping.com/join/3mj/ghk-newsletter" target="_blank" rel="nofollow">Newsletter</a></li>
-<li class="new-sidepanel-menu-parent-item has-children" data-id="12"><div><a href="#follow">Follow</a><span class="sidepanel-submenu-toggle"></span></div>
+<li class="new-sidepanel-menu-parent-item" data-id="10"><a href="#" "videos/" rel="nofollow">All Videos</a></li>
+<li class="new-sidepanel-menu-parent-item" data-id="11"><a href="#" "https://link.goodhousekeeping.com/join/3mj/ghk-newsletter" target="_blank" rel="nofollow">Newsletter</a></li>
+<li class="new-sidepanel-menu-parent-item has-children" data-id="12"><div><a href="#" "#follow">Follow</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="12">
-<li class="new-sidepanel-submenu-item"><a href="http://instagram.com/goodhousekeeping">Instagram</a></li>
-<li class="new-sidepanel-submenu-item"><a href="https://www.facebook.com/GOODHOUSEKEEPING">Facebook</a></li>
-<li class="new-sidepanel-submenu-item"><a href="http://www.pinterest.com/goodhousemag/?auto_follow=1">Pinterest</a></li>
-<li class="new-sidepanel-submenu-item"><a href="https://twitter.com/goodhousemag">Twitter</a></li>
-<li class="new-sidepanel-submenu-item"><a href="https://www.youtube.com/c/GoodHousekeeping?sub_confirmation=1">YouTube</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "http://instagram.com/goodhousekeeping">Instagram</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "https://www.facebook.com/GOODHOUSEKEEPING">Facebook</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "http://www.pinterest.com/goodhousemag/?auto_follow=1">Pinterest</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "https://twitter.com/goodhousemag">Twitter</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "https://www.youtube.com/c/GoodHousekeeping?sub_confirmation=1">YouTube</a></li>
 </ul>
 </li>
-<li class="new-sidepanel-menu-parent-item" data-id="13"><a href="promotions/">Promotions</a></li>
-<li class="new-sidepanel-menu-parent-item" data-id="14"><a href="http://sweepstakes.goodhousekeeping.com/">Win</a></li>
-<li class="new-sidepanel-menu-parent-item has-children" data-id="15"><div><a href="https://fave.co/2XYAwpk" target="_blank" rel="nofollow">Shop</a><span class="sidepanel-submenu-toggle"></span></div>
+<li class="new-sidepanel-menu-parent-item" data-id="13"><a href="#" "promotions/">Promotions</a></li>
+<li class="new-sidepanel-menu-parent-item" data-id="14"><a href="#" "http://sweepstakes.goodhousekeeping.com/">Win</a></li>
+<li class="new-sidepanel-menu-parent-item has-children" data-id="15"><div><a href="#" "https://fave.co/2XYAwpk" target="_blank" rel="nofollow">Shop</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="new-sidepanel-submenu" data-parent-id="15">
-<li class="new-sidepanel-submenu-item"><a href="https://fave.co/2XYAwpk" target="_blank" rel="nofollow">Blinds and Shades</a></li>
+<li class="new-sidepanel-submenu-item"><a href="#" "https://fave.co/2XYAwpk" target="_blank" rel="nofollow">Blinds and Shades</a></li>
 </ul>
 </li></ul>
 
-                                    <ul class="sidepanel-location-choice-menu"><li class="sidepanel-location-choice-parent-item has-children" data-id="1"><div><a href="">United States</a><span class="sidepanel-submenu-toggle"></span></div>
+                                    <ul class="sidepanel-location-choice-menu"><li class="sidepanel-location-choice-parent-item has-children" data-id="1"><div><a href="#" "">United States</a><span class="sidepanel-submenu-toggle"></span></div>
 <ul class="sidepanel-location-choice-submenu" data-parent-id="1">
-<li class="sidepanel-location-choice-submenu-item"><a href="">US</a></li>
-<li class="sidepanel-location-choice-submenu-item"><a href="uk/">UK</a></li>
+<li class="sidepanel-location-choice-submenu-item"><a href="#" "">US</a></li>
+<li class="sidepanel-location-choice-submenu-item"><a href="#" "uk/">UK</a></li>
 </ul>
 </li></ul>
     
             <ul class="new-sidepanel-menu legal-ads-free">
             <li class="sidepanel-legal-ads-free">
-                <a href="https://optout.hearstmags.com/servlet/OrdersGateway?cds_mag_code=A99&amp;cds_page_id=246801&amp;client_id=6l4fkr0k2en3n3pjmuu7kfl6o3">Do Not Sell My Info</a>
+                <a href="#" "https://optout.hearstmags.com/servlet/OrdersGateway?cds_mag_code=A99&amp;cds_page_id=246801&amp;client_id=6l4fkr0k2en3n3pjmuu7kfl6o3">Do Not Sell My Info</a>
             </li>
         </ul>
 	    <footer class="sidepanel-footer-container">
@@ -435,8 +435,8 @@
 
 		<span class="sidepanel-header">Editions:</span>
 
-		<ul class="location-choice-sidepanel-menu"><li class="sidepanel-item" data-id="1"><a href="">US</a></li>
-<li class="sidepanel-item" data-id="2"><a href="uk/">UK</a></li></ul>
+		<ul class="location-choice-sidepanel-menu"><li class="sidepanel-item" data-id="1"><a href="#" "">US</a></li>
+<li class="sidepanel-item" data-id="2"><a href="#" "uk/">UK</a></li></ul>
 	</nav>
 	<!-- / menus/location-choice-sidepanel -->
 
@@ -473,19 +473,19 @@
 
 			</a>
 
-																							<a class="top-nav-subscribe" href="subscribe/splits/goodhousekeeping/ghk_sub_nav_link?source=ghk_sub_nav_top">
+																							<a class="top-nav-subscribe" href="#">
 					Subscribe
 				</a>
 
 			
 							<div class="account-dropdown-container">
-					<a class="nav-button account-button" href="https://www.mylo.id/login?client_id=6l4fkr0k2en3n3pjmuu7kfl6o3&amp;redirect_uri=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg21525625%2Fwhy-cats-are-best-pets%2F">
+					<a class="nav-button account-button" href="#">
 						<span class="account-text" data-account="Account" data-login="Sign In">Sign In</span>
 					</a>
 											<div class="account-dropdown">
 							<div class="account-dropdown-links">
-								<a class="account-dropdown-link account-link" href="https://www.mylo.id/account?client_id=6l4fkr0k2en3n3pjmuu7kfl6o3&amp;redirect_uri=life/pets/g21525625/why-cats-are-best-pets/">My Account</a>
-								<a class="account-dropdown-link account-sign-out" href="https://www.mylo.id/logout?client_id=6l4fkr0k2en3n3pjmuu7kfl6o3&amp;redirect_uri=life/pets/g21525625/why-cats-are-best-pets/">Sign Out</a>
+								<a class="account-dropdown-link account-link" href="#">My Account</a>
+								<a class="account-dropdown-link account-sign-out" href="#">Sign Out</a>
 							</div>
 						</div>
 									</div>
@@ -500,7 +500,7 @@
 				<div class="site-content">
 					<div id="searchoverlay" class="search-overlay" role="dialog" aria-modal="true" aria-label="Search" aria-hidden="true" style="display: none;">
 	<div class="search-overlay-inner">
-		<a href="#">
+		<a href="#" "#">
 			<span class="search-overlay-close-button" aria-label="Close">
 				<span class="icon icon-close01"></span>
 			</span>
@@ -549,7 +549,7 @@
 <div class="simple-item top-pathing-item show-numbers">
 
 			
-			<a href="beauty/anti-aging/g28135730/best-skincare-products/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="Best Skincare Products of 2020" data-vars-ga-position="1" data-vars-ga-total-positions="5">
+			<a href="#" "beauty/anti-aging/g28135730/best-skincare-products/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="Best Skincare Products of 2020" data-vars-ga-position="1" data-vars-ga-total-positions="5">
 	
 		
 
@@ -628,7 +628,7 @@
 <div class="simple-item top-pathing-item show-numbers">
 
 			
-			<a href="holidays/mothers-day/g26977276/best-mothers-day-flower-delivery-services/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="10 Best Online Flower Delivery Services" data-vars-ga-position="2" data-vars-ga-total-positions="5">
+			<a href="#" "holidays/mothers-day/g26977276/best-mothers-day-flower-delivery-services/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="10 Best Online Flower Delivery Services" data-vars-ga-position="2" data-vars-ga-total-positions="5">
 	
 		
 
@@ -704,7 +704,7 @@
 <div class="simple-item top-pathing-item show-numbers">
 
 			
-			<a href="life/entertainment/g26868774/netflix-kids-shows/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="The 30 Best Netflix Kids' Shows Right Now" data-vars-ga-position="3" data-vars-ga-total-positions="5">
+			<a href="#" "life/entertainment/g26868774/netflix-kids-shows/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="The 30 Best Netflix Kids' Shows Right Now" data-vars-ga-position="3" data-vars-ga-total-positions="5">
 	
 		
 
@@ -779,7 +779,7 @@
 <div class="simple-item top-pathing-item show-numbers">
 
 			
-			<a href="home/cleaning/a31673106/how-to-disinfect-toys/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="How to Clean Germy Toys" data-vars-ga-position="4" data-vars-ga-total-positions="5">
+			<a href="#" "home/cleaning/a31673106/how-to-disinfect-toys/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="How to Clean Germy Toys" data-vars-ga-position="4" data-vars-ga-total-positions="5">
 	
 		
 
@@ -854,7 +854,7 @@
 <div class="simple-item top-pathing-item show-numbers">
 
 			
-			<a href="health/diet-nutrition/a32070941/carb-cycling-diet/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="Everything You Need to Know About Carb Cycling" data-vars-ga-position="5" data-vars-ga-total-positions="5">
+			<a href="#" "health/diet-nutrition/a32070941/carb-cycling-diet/" data-vars-ga-ux-element="Top Touts" data-vars-ga-call-to-action="Everything You Need to Know About Carb Cycling" data-vars-ga-position="5" data-vars-ga-total-positions="5">
 	
 		
 
@@ -932,7 +932,7 @@
 	<p class="affiliate-disclaimer-detail">
 		We may earn money from links on this page, but we only recommend products we back.
 
-					<a href="about/a28971721/about-us-contact-information-masthead/" target="_blank" data-vars-ga-outbound-link="about/a28971721/about-us-contact-information-masthead/">Why trust us?</a>
+					<a href="#" "about/a28971721/about-us-contact-information-masthead/" target="_blank" data-vars-ga-outbound-link="about/a28971721/about-us-contact-information-masthead/">Why trust us?</a>
 			</p>
 </div>
 
@@ -973,7 +973,7 @@
 
 
 	<div class="byline ">By
-					<a class="byline-name" href="author/219970/amina-abdelrahman/" data-vars-ga-ux-element="Byline" data-vars-ga-call-to-action="Amina Lake Abdelrahman, Good Housekeeping Institute"><span class="byline-name">Amina Lake Abdelrahman, Good Housekeeping Institute</span></a> and 					<a class="byline-name" href="author/221589/Selena-Barrientos/" data-vars-ga-ux-element="Byline" data-vars-ga-call-to-action="Selena Barrientos"><span class="byline-name">Selena Barrientos</span></a>		
+					<a class="byline-name" href="#" data-vars-ga-ux-element="Byline" data-vars-ga-call-to-action="Amina Lake Abdelrahman, Good Housekeeping Institute"><span class="byline-name">Amina Lake Abdelrahman, Good Housekeeping Institute</span></a> and 					<a class="byline-name" href="#" data-vars-ga-ux-element="Byline" data-vars-ga-call-to-action="Selena Barrientos"><span class="byline-name">Selena Barrientos</span></a>		
 	</div>
 <!-- / shared/byline -->
 
@@ -989,9 +989,7 @@
 	</div>
 </header><div class="content-container slideshow-container new-tablet-enabled" role="region" aria-label="carousel" tabindex="0">
 		
-		<div class="leaderboard-ad slideshow-leaderboard"> 
-	<div id="gpt-leaderboard-ad" class="ad-container"><div class="bt"><span class="bt-uid-tg" data-uid="5ba15dc024-213" style="display: none !important;"></span></div><div id="gpt_lb_a" class="gpt-adslot noskim" style="" data-google-query-id="CL2fqMT3-egCFRYhGAoddJYOoA"><div id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/atf_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/atf_1" title="3rd party ad content" name="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/atf_1" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" data-google-container-id="2" data-load-complete="true" src="index_1.html" width="728" height="90" frameborder="0"></iframe></div></div></div>
-</div>
+		
 
 			<div class="slideshow-outer">
 				<div class="slideshow-inner inited" data-request-size="30">
@@ -1024,7 +1022,7 @@
 							</div>
 
 
-					<div tabindex="0" class="slideshow-desktop-dek"><p>There’s no question that cats are a popular choice for <a href="life/pets/advice/a19606/pet-adoption/" target="_blank" data-vars-ga-outbound-link="life/pets/advice/a19606/pet-adoption/">pets</a> — in fact, according to the <a href="https://www.avma.org/News/PressRoom/Pages/AVMA-releases-latest-stats-on-pet-ownership-and-veterinary-care.aspx" target="_blank" data-vars-ga-outbound-link="https://www.avma.org/News/PressRoom/Pages/AVMA-releases-latest-stats-on-pet-ownership-and-veterinary-care.aspx">American Veterinary Medical Association</a>, about 25 percent of U.S. households have these cute, furry felines as a live-in friend. Sure, they're mischievous at times, and they might love to lay across your keyboard while you're working or enjoy smacking things off your desk for no particular reason, but if you ask us, that's entirely part of their charm — and a big reason why we love them so much. </p><p>Not only are they adorable (because seriously, they're so cute), they're also fiercely independent, curious, and loyal — and can make amazing lifelong companions for you or your family. Here are 15 reasons why cats make the absolute best pets. (P.S. If you're thinking of adopting a new kitty, be sure to check out <a href="life/pets/g25251308/cute-cat-names/" target="_blank" data-vars-ga-outbound-link="life/pets/g25251308/cute-cat-names/">our list of the cutest cat names</a>).</p></div>
+					<div tabindex="0" class="slideshow-desktop-dek"><p>There’s no question that cats are a popular choice for <a href="#" "life/pets/advice/a19606/pet-adoption/" target="_blank" data-vars-ga-outbound-link="life/pets/advice/a19606/pet-adoption/">pets</a> — in fact, according to the <a href="#" "https://www.avma.org/News/PressRoom/Pages/AVMA-releases-latest-stats-on-pet-ownership-and-veterinary-care.aspx" target="_blank" data-vars-ga-outbound-link="https://www.avma.org/News/PressRoom/Pages/AVMA-releases-latest-stats-on-pet-ownership-and-veterinary-care.aspx">American Veterinary Medical Association</a>, about 25 percent of U.S. households have these cute, furry felines as a live-in friend. Sure, they're mischievous at times, and they might love to lay across your keyboard while you're working or enjoy smacking things off your desk for no particular reason, but if you ask us, that's entirely part of their charm — and a big reason why we love them so much. </p><p>Not only are they adorable (because seriously, they're so cute), they're also fiercely independent, curious, and loyal — and can make amazing lifelong companions for you or your family. Here are 15 reasons why cats make the absolute best pets. (P.S. If you're thinking of adopting a new kitty, be sure to check out <a href="#" "life/pets/g25251308/cute-cat-names/" target="_blank" data-vars-ga-outbound-link="life/pets/g25251308/cute-cat-names/">our list of the cutest cat names</a>).</p></div>
 		
 		<button type="button" class="slide-button slide-button-view-gallery slide-button-toggle-lede">
 			<span class="slide-button-view-gallery-text">View Gallery</span>
@@ -1085,7 +1083,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Well, not for you. But if you have kids, or have kids on the way, having a pet at a young age can <a href="https://web.archive.org/web/20021004100013/http://www.nih.gov/news/pr/aug2002/niaid-27.htm" target="_blank" data-vars-ga-outbound-link="https://web.archive.org/web/20021004100013/http://www.nih.gov/news/pr/aug2002/niaid-27.htm">lower their risk of getting allergies</a>. Not only to pet hair, but according to the National Institute of Health, pet exposure at a young age can also prevent "other types of common allergies, such as allergy to dust mites, ragweed, and grass."</p><p><strong>RELATED:</strong> <a href="life/pets/g27018110/best-pet-hair-removers-amazon/" target="_blank" data-vars-ga-outbound-link="life/pets/g27018110/best-pet-hair-removers-amazon/">9 Best Pet Hair Removing Products on Amazon That Actually Work</a></p></div>
+    <div class="slideshow-slide-dek"><p>Well, not for you. But if you have kids, or have kids on the way, having a pet at a young age can <a href="#" "https://web.archive.org/web/20021004100013/http://www.nih.gov/news/pr/aug2002/niaid-27.htm" target="_blank" data-vars-ga-outbound-link="https://web.archive.org/web/20021004100013/http://www.nih.gov/news/pr/aug2002/niaid-27.htm">lower their risk of getting allergies</a>. Not only to pet hair, but according to the National Institute of Health, pet exposure at a young age can also prevent "other types of common allergies, such as allergy to dust mites, ragweed, and grass."</p><p><strong>RELATED:</strong> <a href="#" "life/pets/g27018110/best-pet-hair-removers-amazon/" target="_blank" data-vars-ga-outbound-link="life/pets/g27018110/best-pet-hair-removers-amazon/">9 Best Pet Hair Removing Products on Amazon That Actually Work</a></p></div>
 
 </div>
 
@@ -1143,7 +1141,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Don't be fooled by all the fluff and fur, cats are natural predators. Despite being domesticated, they still have that hunter instinct — and will keep your home free of mice.</p><p><strong><strong>RELATED:</strong></strong> <a href="life/pets/g26898596/large-cat-breeds/" data-vars-ga-outbound-link="life/pets/g26898596/large-cat-breeds/">10 Large Cat Breeds That Would Be the Purr-fect Addition to Your Home</a></p></div>
+    <div class="slideshow-slide-dek"><p>Don't be fooled by all the fluff and fur, cats are natural predators. Despite being domesticated, they still have that hunter instinct — and will keep your home free of mice.</p><p><strong><strong>RELATED:</strong></strong> <a href="#" "life/pets/g26898596/large-cat-breeds/" data-vars-ga-outbound-link="life/pets/g26898596/large-cat-breeds/">10 Large Cat Breeds That Would Be the Purr-fect Addition to Your Home</a></p></div>
 
 </div>
 
@@ -1201,7 +1199,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>No, seriously. In a study of self-proclaimed dog-lovers versus cat-lovers done at <a href="https://www.huffpost.com/entry/cat-people-dog-people-intelligence_n_5412245" target="_blank" data-vars-ga-outbound-link="https://www.huffpost.com/entry/cat-people-dog-people-intelligence_n_5412245">Carroll University in Waukesha, Wisconsin</a>, cat owners scored higher on intelligence than dog owners did.</p><p> <strong>RELATED:</strong> <a href="holidays/gift-ideas/g27208021/gifts-for-cat-lovers/" target="_blank" data-vars-ga-outbound-link="holidays/gift-ideas/g27208021/gifts-for-cat-lovers/">25 Ultimate Gifts for the Cat Lover in Your Life</a></p></div>
+    <div class="slideshow-slide-dek"><p>No, seriously. In a study of self-proclaimed dog-lovers versus cat-lovers done at <a href="#"  target="_blank" data-vars-ga-outbound-link="https://www.huffpost.com/entry/cat-people-dog-people-intelligence_n_5412245">Carroll University in Waukesha, Wisconsin</a>, cat owners scored higher on intelligence than dog owners did.</p><p> <strong>RELATED:</strong> <a href="#" "holidays/gift-ideas/g27208021/gifts-for-cat-lovers/" target="_blank" data-vars-ga-outbound-link="holidays/gift-ideas/g27208021/gifts-for-cat-lovers/">25 Ultimate Gifts for the Cat Lover in Your Life</a></p></div>
 
 </div>
 
@@ -1259,7 +1257,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Cats do sleep a lot (more on that later), but even when they're snoozing, they still stay super alert. <a href="https://www.sleep.org/articles/cats-sleep-habits-2/" target="_blank" data-vars-ga-outbound-link="https://www.sleep.org/articles/cats-sleep-habits-2/">They're actively hearing and smelling things while asleep</a>, so that they're able to pounce on a pest at a moment's notice. </p></div>
+    <div class="slideshow-slide-dek"><p>Cats do sleep a lot (more on that later), but even when they're snoozing, they still stay super alert. <a href="#"  target="_blank" data-vars-ga-outbound-link="https://www.sleep.org/articles/cats-sleep-habits-2/">They're actively hearing and smelling things while asleep</a>, so that they're able to pounce on a pest at a moment's notice. </p></div>
 
 </div>
 
@@ -1317,7 +1315,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Need we say more? With their big, expressive eyes, cats can turn out to be pretty hilarious in photos.</p><p><strong>RELATED:</strong> <a href="life/pets/g4296/genius-amazon-cat-products/" target="_blank" data-vars-ga-outbound-link="life/pets/g4296/genius-amazon-cat-products/">20 Genius Things Every Cat Owner Needs From Amazon</a></p></div>
+    <div class="slideshow-slide-dek"><p>Need we say more? With their big, expressive eyes, cats can turn out to be pretty hilarious in photos.</p><p><strong>RELATED:</strong> <a href="#" "life/pets/g4296/genius-amazon-cat-products/" target="_blank" data-vars-ga-outbound-link="life/pets/g4296/genius-amazon-cat-products/">20 Genius Things Every Cat Owner Needs From Amazon</a></p></div>
 
 </div>
 
@@ -1375,7 +1373,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Cats can have a bunch of positive effects on children. <a href="https://go.redirectingat.com/?id=74968X1525078&amp;xs=1&amp;url=https%3A%2F%2Fwww.care.com%2Fc%2Fstories%2F6134%2Fgetting-a-domestic-cat-15-benefits-for-your%2F&amp;sref=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg21525625%2Fwhy-cats-are-best-pets%2F%3Fpre%3Dlife%252Fpets%252F%26prefix%3Dg%26id%3D21525625%26del%3D%26variantId%3D%26post%3D%252Fwhy-cats-are-best-pets" target="_blank" data-vars-ga-outbound-link="https://www.care.com/c/stories/6134/getting-a-domestic-cat-15-benefits-for-your/" data-affiliate="true">According to Care.com</a>, owning a cat can teach kids social skills and help them cope with traumatic situations.</p><p><strong>RELATED:</strong> <a href="life/pets/g25360151/cat-quotes/" target="_blank" data-vars-ga-outbound-link="life/pets/g25360151/cat-quotes/">25 Quotes Only Cat Owners Will Understand</a></p></div>
+    <div class="slideshow-slide-dek"><p>Cats can have a bunch of positive effects on children. <a href="#" "https://go.redirectingat.com/?id=74968X1525078&amp;xs=1&amp;url=https%3A%2F%2Fwww.care.com%2Fc%2Fstories%2F6134%2Fgetting-a-domestic-cat-15-benefits-for-your%2F&amp;sref=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg21525625%2Fwhy-cats-are-best-pets%2F%3Fpre%3Dlife%252Fpets%252F%26prefix%3Dg%26id%3D21525625%26del%3D%26variantId%3D%26post%3D%252Fwhy-cats-are-best-pets" target="_blank" data-vars-ga-outbound-link="https://www.care.com/c/stories/6134/getting-a-domestic-cat-15-benefits-for-your/" data-affiliate="true">According to Care.com</a>, owning a cat can teach kids social skills and help them cope with traumatic situations.</p><p><strong>RELATED:</strong> <a href="#" "life/pets/g25360151/cat-quotes/" target="_blank" data-vars-ga-outbound-link="life/pets/g25360151/cat-quotes/">25 Quotes Only Cat Owners Will Understand</a></p></div>
 
 </div>
 
@@ -1433,7 +1431,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Plenty of <a href="home-products/g23739682/pet-friendly-apartment-makeover/" target="_blank" data-vars-ga-outbound-link="home-products/g23739682/pet-friendly-apartment-makeover/">apartments</a> allow cats because they’re quiet, so they are less likely to wake the neighbors up when someone rings your doorbell. </p></div>
+    <div class="slideshow-slide-dek"><p>Plenty of <a href="#" "home-products/g23739682/pet-friendly-apartment-makeover/" target="_blank" data-vars-ga-outbound-link="home-products/g23739682/pet-friendly-apartment-makeover/">apartments</a> allow cats because they’re quiet, so they are less likely to wake the neighbors up when someone rings your doorbell. </p></div>
 
 </div>
 
@@ -1491,7 +1489,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p><a href="https://www.aspca.org/sites/default/files/pet_care_costs.pdf" target="_blank" data-vars-ga-outbound-link="https://www.aspca.org/sites/default/files/pet_care_costs.pdf">According to the ASPCA</a>, cats won’t break the bank nearly as much as medium or large dogs because they require much less food, fewer toys, and fewer trips to the groomer.</p></div>
+    <div class="slideshow-slide-dek"><p><a href="#"  target="_blank" data-vars-ga-outbound-link="https://www.aspca.org/sites/default/files/pet_care_costs.pdf">According to the ASPCA</a>, cats won’t break the bank nearly as much as medium or large dogs because they require much less food, fewer toys, and fewer trips to the groomer.</p></div>
 
 </div>
 
@@ -1549,7 +1547,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Unlike our friend Fido, Whiskers doesn't require multiple walks a day. Older cats can also be <a href="http://www.mypet.com/basic-pet-care/how-long-can-you-safely-leave-a-cat-alone.aspx" target="_blank" data-vars-ga-outbound-link="http://www.mypet.com/basic-pet-care/how-long-can-you-safely-leave-a-cat-alone.aspx">left alone for a day or two</a> if they have access to their <a href="https://www.amazon.com/Best-Sellers-Pet-Supplies-Automatic-Cat-Feeders/zgbs/pet-supplies/2975260011?tag=goodhousekeeping_auto-append-20&amp;ascsubtag=[artid|10055.g.21525625[src|[ch|[lt|" rel="nofollow noskim" target="_blank" data-vars-ga-outbound-link="https://www.amazon.com/Best-Sellers-Pet-Supplies-Automatic-Cat-Feeders/zgbs/pet-supplies/2975260011" data-affiliate="true" data-amzn-asin="2975260011">food</a>, <a href="https://www.amazon.com/Pet-Fountain-Cat-Water-Dispenser/dp/B079DL32QY?linkCode=ogi&amp;tag=goodhousekeeping_auto-append-20&amp;ascsubtag=[artid|10055.g.21525625[src|[ch|[lt|" rel="nofollow noskim" target="_blank" class="product-links" data-vars-ga-call-to-action="water" data-vars-ga-outbound-link="https://www.amazon.com/Pet-Fountain-Cat-Water-Dispenser/dp/B079DL32QY?linkCode=ogi" data-vars-ga-product-brand="MOSPRO" data-vars-ga-product-id="fd435761-fe6e-426d-b31e-f9f2c857e64b" data-vars-ga-product-price="19.99" data-vars-ga-product-sem3-brand="MOSPRO" data-vars-ga-product-sem3-category="Fountains" data-vars-ga-product-sem3-id="" data-affiliate="true" data-amzn-asin="B079DL32QY">water</a>, and litter box. Of course, make sure you speak with your <a href="life/pets/advice/g2535/30-cat-health-questions/" target="_blank" data-vars-ga-outbound-link="life/pets/advice/g2535/30-cat-health-questions/">veterinarian</a> beforehand.</p></div>
+    <div class="slideshow-slide-dek"><p>Unlike our friend Fido, Whiskers doesn't require multiple walks a day. Older cats can also be <a href="#" target="_blank" data-vars-ga-outbound-link="http://www.mypet.com/basic-pet-care/how-long-can-you-safely-leave-a-cat-alone.aspx">left alone for a day or two</a> if they have access to their <a href="#" "https://www.amazon.com/Best-Sellers-Pet-Supplies-Automatic-Cat-Feeders/zgbs/pet-supplies/2975260011?tag=goodhousekeeping_auto-append-20&amp;ascsubtag=[artid|10055.g.21525625[src|[ch|[lt|" rel="nofollow noskim" target="_blank" data-vars-ga-outbound-link="https://www.amazon.com/Best-Sellers-Pet-Supplies-Automatic-Cat-Feeders/zgbs/pet-supplies/2975260011" data-affiliate="true" data-amzn-asin="2975260011">food</a>, <a href="#" "https://www.amazon.com/Pet-Fountain-Cat-Water-Dispenser/dp/B079DL32QY?linkCode=ogi&amp;tag=goodhousekeeping_auto-append-20&amp;ascsubtag=[artid|10055.g.21525625[src|[ch|[lt|" rel="nofollow noskim" target="_blank" class="product-links" data-vars-ga-call-to-action="water" data-vars-ga-outbound-link="https://www.amazon.com/Pet-Fountain-Cat-Water-Dispenser/dp/B079DL32QY?linkCode=ogi" data-vars-ga-product-brand="MOSPRO" data-vars-ga-product-id="fd435761-fe6e-426d-b31e-f9f2c857e64b" data-vars-ga-product-price="19.99" data-vars-ga-product-sem3-brand="MOSPRO" data-vars-ga-product-sem3-category="Fountains" data-vars-ga-product-sem3-id="" data-affiliate="true" data-amzn-asin="B079DL32QY">water</a>, and litter box. Of course, make sure you speak with your <a href="#" "life/pets/advice/g2535/30-cat-health-questions/" target="_blank" data-vars-ga-outbound-link="life/pets/advice/g2535/30-cat-health-questions/">veterinarian</a> beforehand.</p></div>
 
 </div>
 
@@ -1607,7 +1605,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Ever wonder why cats love to play? Since they don't hunt for their food, <a href="https://www.globalanimal.org/2011/06/11/frisky-felines-why-cats-play/" target="_blank" data-vars-ga-outbound-link="https://www.globalanimal.org/2011/06/11/frisky-felines-why-cats-play/">it's believed</a> kitties have an abundance of energy stored up and release it through playtime. </p></div>
+    <div class="slideshow-slide-dek"><p>Ever wonder why cats love to play? Since they don't hunt for their food, <a href="#" "https://www.globalanimal.org/2011/06/11/frisky-felines-why-cats-play/" target="_blank" data-vars-ga-outbound-link="https://www.globalanimal.org/2011/06/11/frisky-felines-why-cats-play/">it's believed</a> kitties have an abundance of energy stored up and release it through playtime. </p></div>
 
 </div>
 
@@ -1665,7 +1663,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Just kidding ... but seriously, cats are a lot smarter than people make them out to be. According to <a href="http://www.animalplanet.com/pets/cat-intelligence/" target="_blank" data-vars-ga-outbound-link="http://www.animalplanet.com/pets/cat-intelligence/">Animal Planet</a>, cats are constantly learning and have an <em>excellent</em> memory. </p></div>
+    <div class="slideshow-slide-dek"><p>Just kidding ... but seriously, cats are a lot smarter than people make them out to be. According to <a href="#" "http://www.animalplanet.com/pets/cat-intelligence/" target="_blank" data-vars-ga-outbound-link="http://www.animalplanet.com/pets/cat-intelligence/">Animal Planet</a>, cats are constantly learning and have an <em>excellent</em> memory. </p></div>
 
 </div>
 
@@ -1723,7 +1721,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>When you head off to work and need to leave your pet behind, you  may start to feel a little guilty. But it might be easier with a cat who loves having the house to themselves. Cats will sleep whenever they’re bored — about <a href="https://www.petmd.com/cat/behavior/evr_ct_why_do_cats_sleep_so_much" target="_blank" data-vars-ga-outbound-link="https://www.petmd.com/cat/behavior/evr_ct_why_do_cats_sleep_so_much">15 hours a day</a>.</p></div>
+    <div class="slideshow-slide-dek"><p>When you head off to work and need to leave your pet behind, you  may start to feel a little guilty. But it might be easier with a cat who loves having the house to themselves. Cats will sleep whenever they’re bored — about <a href="#" "https://www.petmd.com/cat/behavior/evr_ct_why_do_cats_sleep_so_much" target="_blank" data-vars-ga-outbound-link="https://www.petmd.com/cat/behavior/evr_ct_why_do_cats_sleep_so_much">15 hours a day</a>.</p></div>
 
 </div>
 
@@ -1781,7 +1779,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Sure, you'll still have to take your feline to the groomers every once in a while, but cats generally take care of themselves in that department, saving you time and energy.</p><p><strong>RELATED:</strong> <a href="appliances/vacuum-cleaner-reviews/g22073192/best-vacuum-for-pet-hair/" target="_blank" data-vars-ga-outbound-link="appliances/vacuum-cleaner-reviews/g22073192/best-vacuum-for-pet-hair/">7 Best Vacuums to Clean Up Every Last Speck of Pet Hair</a></p></div>
+    <div class="slideshow-slide-dek"><p>Sure, you'll still have to take your feline to the groomers every once in a while, but cats generally take care of themselves in that department, saving you time and energy.</p><p><strong>RELATED:</strong> <a href="#" "appliances/vacuum-cleaner-reviews/g22073192/best-vacuum-for-pet-hair/" target="_blank" data-vars-ga-outbound-link="appliances/vacuum-cleaner-reviews/g22073192/best-vacuum-for-pet-hair/">7 Best Vacuums to Clean Up Every Last Speck of Pet Hair</a></p></div>
 
 </div>
 
@@ -1839,7 +1837,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Since <a href="life/pets/a34002/cats-better-than-dogs-study/" target="_blank" data-vars-ga-outbound-link="life/pets/a34002/cats-better-than-dogs-study/">cats don’t eat nearly as much meat as dogs do</a>, it results in a much smaller carbon footprint. While definitely smaller, both animals have carbon footprints equivalent to cars, according to some <a href="http://www.transitionsta.org/2019/03/paw-print-your-pets-carbon-footprint/" target="_blank" data-vars-ga-outbound-link="http://www.transitionsta.org/2019/03/paw-print-your-pets-carbon-footprint/">sustainability authors</a>. </p></div>
+    <div class="slideshow-slide-dek"><p>Since <a href="#" "life/pets/a34002/cats-better-than-dogs-study/" target="_blank" data-vars-ga-outbound-link="life/pets/a34002/cats-better-than-dogs-study/">cats don’t eat nearly as much meat as dogs do</a>, it results in a much smaller carbon footprint. While definitely smaller, both animals have carbon footprints equivalent to cars, according to some <a href="#" "http://www.transitionsta.org/2019/03/paw-print-your-pets-carbon-footprint/" target="_blank" data-vars-ga-outbound-link="http://www.transitionsta.org/2019/03/paw-print-your-pets-carbon-footprint/">sustainability authors</a>. </p></div>
 
 </div>
 
@@ -1897,7 +1895,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p><a href="https://www.nytimes.com/2010/11/12/science/12cats.html" target="_blank" data-vars-ga-outbound-link="https://www.nytimes.com/2010/11/12/science/12cats.html">A study found</a> that cats drink water "gracefully," so if you have misophonia a.k.a. <a href="life/a45723/bad-manners-that-enrage-people/" target="_blank" data-vars-ga-outbound-link="life/a45723/bad-manners-that-enrage-people/">you hate the sound of chewing</a> (and/or drinking), you may want to get a cat.</p></div>
+    <div class="slideshow-slide-dek"><p><a href="#" "https://www.nytimes.com/2010/11/12/science/12cats.html" target="_blank" data-vars-ga-outbound-link="https://www.nytimes.com/2010/11/12/science/12cats.html">A study found</a> that cats drink water "gracefully," so if you have misophonia a.k.a. <a href="#" "life/a45723/bad-manners-that-enrage-people/" target="_blank" data-vars-ga-outbound-link="life/a45723/bad-manners-that-enrage-people/">you hate the sound of chewing</a> (and/or drinking), you may want to get a cat.</p></div>
 
 </div>
 
@@ -1955,7 +1953,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317329/" data-vars-ga-outbound-link="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317329/">Research shows</a> cats can help lower your blood pressure and reduce the risk of dying from a heart attack. It's amazing knowing that one of these cuties is keeping you healthy.</p><p><strong>RELATED: </strong><a href="life/pets/g27570035/tortoiseshell-cat/" target="_blank" data-vars-ga-outbound-link="life/pets/g27570035/tortoiseshell-cat/">10 Totally Fascinating Facts About Tortoiseshell Cats</a><strong></strong></p></div>
+    <div class="slideshow-slide-dek"><p><a href="#" "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317329/" data-vars-ga-outbound-link="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317329/">Research shows</a> cats can help lower your blood pressure and reduce the risk of dying from a heart attack. It's amazing knowing that one of these cuties is keeping you healthy.</p><p><strong>RELATED: </strong><a href="#" "life/pets/g27570035/tortoiseshell-cat/" target="_blank" data-vars-ga-outbound-link="life/pets/g27570035/tortoiseshell-cat/">10 Totally Fascinating Facts About Tortoiseshell Cats</a><strong></strong></p></div>
 
 </div>
 
@@ -2013,7 +2011,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>Not only is purring absolutely adorable, but it can also be a soothing sound for humans. In fact, there are <a href="https://www.youtube.com/watch?v=IWVaqk4H7b0" target="_blank" rel="nofollow" data-vars-ga-outbound-link="https://www.youtube.com/watch?v=IWVaqk4H7b0">numerous online videos</a> of cats just purring to help people fall asleep.</p></div>
+    <div class="slideshow-slide-dek"><p>Not only is purring absolutely adorable, but it can also be a soothing sound for humans. In fact, there are <a href="#" "https://www.youtube.com/watch?v=IWVaqk4H7b0" target="_blank" rel="nofollow" data-vars-ga-outbound-link="https://www.youtube.com/watch?v=IWVaqk4H7b0">numerous online videos</a> of cats just purring to help people fall asleep.</p></div>
 
 </div>
 
@@ -2071,7 +2069,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p><a href="http://www.catmuseumsf.org/egyptcats.html" target="_blank" data-vars-ga-outbound-link="http://www.catmuseumsf.org/egyptcats.html">Egyptian history shows</a> that cats worked hard to be welcomed into homes. But people eventually noticed that the animals resembled Bast, the Ancient Egyptian goddess of warfare, and they started to be held in high regard. </p></div>
+    <div class="slideshow-slide-dek"><p><a href="#" "http://www.catmuseumsf.org/egyptcats.html" target="_blank" data-vars-ga-outbound-link="http://www.catmuseumsf.org/egyptcats.html">Egyptian history shows</a> that cats worked hard to be welcomed into homes. But people eventually noticed that the animals resembled Bast, the Ancient Egyptian goddess of warfare, and they started to be held in high regard. </p></div>
 
 </div>
 
@@ -2129,7 +2127,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>There are few things in life more heartbreaking than losing a pet, which is why knowing that <a href="https://www.catster.com/cat-health-care/how-long-do-cats-live-cat-health-facts" target="_blank" data-vars-ga-outbound-link="https://www.catster.com/cat-health-care/how-long-do-cats-live-cat-health-facts">the average domestic cat has an average lifespan of about 15 years </a> is quite comforting.</p></div>
+    <div class="slideshow-slide-dek"><p>There are few things in life more heartbreaking than losing a pet, which is why knowing that <a href="#" "https://www.catster.com/cat-health-care/how-long-do-cats-live-cat-health-facts" target="_blank" data-vars-ga-outbound-link="https://www.catster.com/cat-health-care/how-long-do-cats-live-cat-health-facts">the average domestic cat has an average lifespan of about 15 years </a> is quite comforting.</p></div>
 
 </div>
 
@@ -2187,7 +2185,7 @@
                     <span class="slideshow-slide-expand-content"></span>
             </div>
 
-    <div class="slideshow-slide-dek"><p>We don't really have to say this, but in case you need convincing, cats are <em>seriously</em> cute.</p><p><strong>RELATED:</strong> <a href="life/pets/g21270567/black-cat-names/" target="_blank" data-vars-ga-outbound-link="life/pets/g21270567/black-cat-names/">44 Black Cat Names That Are Just as Adorable as Your New Kitty</a></p></div>
+    <div class="slideshow-slide-dek"><p>We don't really have to say this, but in case you need convincing, cats are <em>seriously</em> cute.</p><p><strong>RELATED:</strong> <a href="#" "life/pets/g21270567/black-cat-names/" target="_blank" data-vars-ga-outbound-link="life/pets/g21270567/black-cat-names/">44 Black Cat Names That Are Just as Adorable as Your New Kitty</a></p></div>
 
 </div>
 
@@ -2235,7 +2233,7 @@
 							<div class="slideshow-rail">
 				<div class="vertical-ad slideshow-vertical-ad">
 	<div class="breaker-ad-text">Advertisement - Continue Reading Below</div>
-	<div id="gpt-ad-vertical-top" class="ad-container"><div class="bt"><span class="bt-uid-tg" data-uid="5b915ae022-213" style="display: none !important;"></span></div><div id="gpt_gal_a" class="gpt-adslot noskim" style="" data-google-query-id="CPWmqsT3-egCFRYhGAoddJYOoA"><div id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/atf_2__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 600px;"><iframe style="border: 0px none; vertical-align: bottom;" src="index_6.html" id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/atf_2" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" data-is-safeframe="true" data-google-container-id="3" data-load-complete="true" width="300" height="600" frameborder="0"></iframe></div></div></div>
+	<div id="gpt-ad-vertical-top" class="ad-container"><div class="bt"><span class="bt-uid-tg" data-uid="5b915ae022-213" style="display: none !important;"></span></div><div id="gpt_gal_a" class="gpt-adslot noskim" style="" data-google-query-id="CPWmqsT3-egCFRYhGAoddJYOoA"><div id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/atf_2__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 600px;"></div></div></div>
 </div>
 
 			</div>
@@ -2264,7 +2262,7 @@
 		</div>
 
 <!-- shared/article-marketplace-horizontal.twig -->
-<div id="article-marketplace-horizontal"><div id="gpt_lb_mn" class="gpt-adslot noskim" style="display: none;" data-google-query-id="CK6LqMX3-egCFc-OGAodx7cMTw"><div id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/breaker_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/breaker_0" title="3rd party ad content" name="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/breaker_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" data-google-container-id="4" data-load-complete="true" src="index_2.html" width="1" height="1" frameborder="0"></iframe></div></div></div>
+<div id="article-marketplace-horizontal"><div id="gpt_lb_mn" class="gpt-adslot noskim" style="display: none;" data-google-query-id="CK6LqMX3-egCFc-OGAodx7cMTw"><div id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/breaker_0__container__" style="border: 0pt none;"></div></div></div>
 <!-- / shared/article-marketplace-horizontal.twig -->
 <!-- shared/end-of-content.twig -->
 	<div class="end-of-content-module">
@@ -2320,7 +2318,7 @@
 <div class="simple-item transporter-simple-item ">
 
 			
-			<a href="life/pets/a32211096/how-to-trim-dog-nails/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="How to Properly Trim Your Dog's Nails" data-vars-ga-outbound-link="life/pets/a32211096/how-to-trim-dog-nails/" data-vars-ga-position="1" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/a32211096/how-to-trim-dog-nails/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="How to Properly Trim Your Dog's Nails" data-vars-ga-outbound-link="life/pets/a32211096/how-to-trim-dog-nails/" data-vars-ga-position="1" data-vars-ga-total-positions="11">
 	
 		
 
@@ -2395,7 +2393,7 @@
 <div class="simple-item transporter-simple-item grid-simple-item-last-mobile ">
 
 			
-			<a href="life/pets/a32187380/how-to-bathe-dog/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="How to Bathe Your Pup the Right Way" data-vars-ga-outbound-link="life/pets/a32187380/how-to-bathe-dog/" data-vars-ga-position="2" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/a32187380/how-to-bathe-dog/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="How to Bathe Your Pup the Right Way" data-vars-ga-outbound-link="life/pets/a32187380/how-to-bathe-dog/" data-vars-ga-position="2" data-vars-ga-total-positions="11">
 	
 		
 
@@ -2450,7 +2448,7 @@
 																											
 			  	<div class="breaker-ad transporter-vertical-ad">
 				<div class="breaker-ad-text">Advertisement - Continue Reading Below</div>
-		<div id="gpt-ad-vertical-bottom" class="ad-container"><div class="bt"><span class="bt-uid-tg" data-uid="5bb767b7fc-213" style="display: none !important;"></span></div><div id="gpt_gal_b" class="gpt-adslot noskim" style="" data-google-query-id="CKaZqMX3-egCFYaCmgoda-UOEQ"><div id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/btf_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/btf_0" title="3rd party ad content" name="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/btf_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" data-google-container-id="5" data-load-complete="true" src="index_3.html" width="300" height="250" frameborder="0"></iframe></div></div></div>
+		<div id="gpt-ad-vertical-bottom" class="ad-container"><div class="bt"><span class="bt-uid-tg" data-uid="5bb767b7fc-213" style="display: none !important;"></span></div><div id="gpt_gal_b" class="gpt-adslot noskim" style="" data-google-query-id="CKaZqMX3-egCFYaCmgoda-UOEQ"><div id="google_ads_iframe_/36117602/hdm-goodhousekeeping/life/btf_0__container__" style="border: 0pt none;"></div></div></div>
 	</div>
 
 												
@@ -2477,7 +2475,7 @@
 <div class="simple-item transporter-simple-item grid-simple-item-last-tablet ">
 
 			
-			<a href="life/pets/g22997516/best-guard-dogs/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="The Best Guard Dogs to Protect Your Home" data-vars-ga-outbound-link="life/pets/g22997516/best-guard-dogs/" data-vars-ga-position="4" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/g22997516/best-guard-dogs/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="The Best Guard Dogs to Protect Your Home" data-vars-ga-outbound-link="life/pets/g22997516/best-guard-dogs/" data-vars-ga-position="4" data-vars-ga-total-positions="11">
 	
 		
 
@@ -2556,7 +2554,7 @@
 <div class="simple-item transporter-simple-item grid-simple-item-last-mobile ">
 
 			
-			<a href="life/pets/g32052015/best-dog-food-online-delivery-services/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="8 Best Dog Food Delivery Services" data-vars-ga-outbound-link="life/pets/g32052015/best-dog-food-online-delivery-services/" data-vars-ga-position="5" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/g32052015/best-dog-food-online-delivery-services/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="8 Best Dog Food Delivery Services" data-vars-ga-outbound-link="life/pets/g32052015/best-dog-food-online-delivery-services/" data-vars-ga-position="5" data-vars-ga-total-positions="11">
 	
 		
 
@@ -2633,7 +2631,7 @@
 <div class="simple-item transporter-simple-item ">
 
 			
-			<a href="life/pets/a25714178/girl-dog-names/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="100 Girl Dog Names for Your Brand-New Pup " data-vars-ga-outbound-link="life/pets/a25714178/girl-dog-names/" data-vars-ga-position="6" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/a25714178/girl-dog-names/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="100 Girl Dog Names for Your Brand-New Pup " data-vars-ga-outbound-link="life/pets/a25714178/girl-dog-names/" data-vars-ga-position="6" data-vars-ga-total-positions="11">
 	
 		
 
@@ -2708,7 +2706,7 @@
 <div class="simple-item transporter-simple-item grid-simple-item-last-mobile grid-simple-item-last-tablet ">
 
 			
-			<a href="life/pets/g31982806/best-cooling-dog-beds/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="8 Best Cooling Dog Beds to Keep Your Pup Comfy" data-vars-ga-outbound-link="life/pets/g31982806/best-cooling-dog-beds/" data-vars-ga-position="7" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/g31982806/best-cooling-dog-beds/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="8 Best Cooling Dog Beds to Keep Your Pup Comfy" data-vars-ga-outbound-link="life/pets/g31982806/best-cooling-dog-beds/" data-vars-ga-position="7" data-vars-ga-total-positions="11">
 	
 		
 
@@ -2785,7 +2783,7 @@
 <div class="simple-item transporter-simple-item ">
 
 			
-			<a href="life/pets/a31700023/pet-fosters-animal-shelters/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="Animal Shelters are Looking for Pet Fosters" data-vars-ga-outbound-link="life/pets/a31700023/pet-fosters-animal-shelters/" data-vars-ga-position="8" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/a31700023/pet-fosters-animal-shelters/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="Animal Shelters are Looking for Pet Fosters" data-vars-ga-outbound-link="life/pets/a31700023/pet-fosters-animal-shelters/" data-vars-ga-position="8" data-vars-ga-total-positions="11">
 	
 		
 
@@ -2860,7 +2858,7 @@
 <div class="simple-item transporter-simple-item grid-simple-item-last-mobile ">
 
 			
-			<a href="life/pets/a31476524/can-dogs-get-coronavirus/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="Can Dogs Get Coronavirus? Experts Explain." data-vars-ga-outbound-link="life/pets/a31476524/can-dogs-get-coronavirus/" data-vars-ga-position="9" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/a31476524/can-dogs-get-coronavirus/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="Can Dogs Get Coronavirus? Experts Explain." data-vars-ga-outbound-link="life/pets/a31476524/can-dogs-get-coronavirus/" data-vars-ga-position="9" data-vars-ga-total-positions="11">
 	
 		
 
@@ -2936,7 +2934,7 @@
 <div class="simple-item transporter-simple-item grid-simple-item-last-tablet ">
 
 			
-			<a href="life/pets/g20687419/famous-dogs-from-movies/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="40 Famous Movie Dogs We Wish Were Our Pets" data-vars-ga-outbound-link="life/pets/g20687419/famous-dogs-from-movies/" data-vars-ga-position="10" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/g20687419/famous-dogs-from-movies/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="40 Famous Movie Dogs We Wish Were Our Pets" data-vars-ga-outbound-link="life/pets/g20687419/famous-dogs-from-movies/" data-vars-ga-position="10" data-vars-ga-total-positions="11">
 	
 		
 
@@ -3015,7 +3013,7 @@
 <div class="simple-item transporter-simple-item grid-simple-item-last-mobile ">
 
 			
-			<a href="life/pets/g4183/westminster-dog-show-breeds/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="The Breeds to Watch at the Westminster Dog Show" data-vars-ga-outbound-link="life/pets/g4183/westminster-dog-show-breeds/" data-vars-ga-position="11" data-vars-ga-total-positions="11">
+			<a href="#" "life/pets/g4183/westminster-dog-show-breeds/" data-vars-ga-ux-element="Transporter" data-vars-ga-call-to-action="The Breeds to Watch at the Westminster Dog Show" data-vars-ga-outbound-link="life/pets/g4183/westminster-dog-show-breeds/" data-vars-ga-position="11" data-vars-ga-total-positions="11">
 	
 		
 
@@ -3084,29 +3082,29 @@
 	<div class="seo-tags-container">
 		<ul class="seo-tag-list">
 										<li class="seo-tag seo-parent-feed">
-										<a class="seo-link" href="life/pets/" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="Pets" data-vars-ga-outbound-link="life/pets/">Pets</a>
+										<a class="seo-link" href="#" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="Pets" data-vars-ga-outbound-link="life/pets/">Pets</a>
 				</li>
 							<li class="seo-tag seo-parent-feed">
-										<a class="seo-link" href="life/" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="Life" data-vars-ga-outbound-link="life/">Life</a>
+										<a class="seo-link" href="#" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="Life" data-vars-ga-outbound-link="life/">Life</a>
 				</li>
 			
 										<li class="seo-tag seo-related-link">
-															<a class="seo-link" href="life/pets/advice/a26925/why-cats-love-boxes/" title="Cats Love Boxes Because They Don't Love You" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="Cats Love Boxes Because They Don't Love You" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/a26925/why-cats-love-boxes/">Cats Love Boxes Because They Don't Love You</a>
+															<a class="seo-link" href="#" title="Cats Love Boxes Because They Don't Love You" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="Cats Love Boxes Because They Don't Love You" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/a26925/why-cats-love-boxes/">Cats Love Boxes Because They Don't Love You</a>
 				</li>
 							<li class="seo-tag seo-related-link">
-															<a class="seo-link" href="life/pets/advice/a19820/caption-this-cat-in-fridge/" title="Caption This: There's a Cat in the Fridge" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="Caption This: There's a Cat in the Fridge" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/a19820/caption-this-cat-in-fridge/">Caption This: There's a Cat in the Fridge</a>
+															<a class="seo-link" href="#" title="Caption This: There's a Cat in the Fridge" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="Caption This: There's a Cat in the Fridge" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/a19820/caption-this-cat-in-fridge/">Caption This: There's a Cat in the Fridge</a>
 				</li>
 							<li class="seo-tag seo-related-link">
-															<a class="seo-link" href="life/pets/advice/a26840/interesting-cat-facts/" title="9 Totally Fascinating Facts About Cats" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="9 Totally Fascinating Facts About Cats" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/a26840/interesting-cat-facts/">9 Totally Fascinating Facts About Cats</a>
+															<a class="seo-link" href="#" title="9 Totally Fascinating Facts About Cats" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="9 Totally Fascinating Facts About Cats" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/a26840/interesting-cat-facts/">9 Totally Fascinating Facts About Cats</a>
 				</li>
 							<li class="seo-tag seo-related-link">
-															<a class="seo-link" href="home/craft-ideas/how-to/g69/diy-pet-beds/" title="9 Pets That Have Better Beds Than You" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="9 Pets That Have Better Beds Than You" data-vars-ga-outbound-link="//www.goodhousekeeping.com/home/craft-ideas/how-to/g69/diy-pet-beds/">9 Pets That Have Better Beds Than You</a>
+															<a class="seo-link" href="#" title="9 Pets That Have Better Beds Than You" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="9 Pets That Have Better Beds Than You" data-vars-ga-outbound-link="//www.goodhousekeeping.com/home/craft-ideas/how-to/g69/diy-pet-beds/">9 Pets That Have Better Beds Than You</a>
 				</li>
 							<li class="seo-tag seo-related-link">
-															<a class="seo-link" href="life/pets/advice/a26153/overweight-pet-care/" title="How to Tell If You Have a Fat Cat (or Dog)" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="How to Tell If You Have a Fat Cat (or Dog)" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/a26153/overweight-pet-care/">How to Tell If You Have a Fat Cat (or Dog)</a>
+															<a class="seo-link" href="#" title="How to Tell If You Have a Fat Cat (or Dog)" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="How to Tell If You Have a Fat Cat (or Dog)" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/a26153/overweight-pet-care/">How to Tell If You Have a Fat Cat (or Dog)</a>
 				</li>
 							<li class="seo-tag seo-related-link">
-															<a class="seo-link" href="life/pets/advice/g1348/celebrity-cats/" title="10 Adorable Celeb-Cat Duos" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="10 Adorable Celeb-Cat Duos" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/g1348/celebrity-cats/">10 Adorable Celeb-Cat Duos</a>
+															<a class="seo-link" href="#" title="10 Adorable Celeb-Cat Duos" data-vars-ga-ux-element="SEO Tag" data-vars-ga-call-to-action="10 Adorable Celeb-Cat Duos" data-vars-ga-outbound-link="//www.goodhousekeeping.com/life/pets/advice/g1348/celebrity-cats/">10 Adorable Celeb-Cat Duos</a>
 				</li>
 			
 								</ul>
@@ -3123,7 +3121,7 @@
 <footer class="footer">
 	<div class="footer-inner">
 		<div class="footer-logo">
-			<a href="" aria-label="Good Housekeeping Home" title="Good Housekeeping Home">
+			<a href="#" "" aria-label="Good Housekeeping Home" title="Good Housekeeping Home">
 				
 
 
@@ -3194,7 +3192,7 @@
 			</a>
 </div>
   <div class="social-button social-button-tumblr footer-social-menu-item " data-tracking-id="share-button-tumblr" role="none">
-	<a class="social-button-link" href="" target="_blank" data-social-key="tumblr" aria-label="Good Housekeeping Tumblr Page">
+	<a class="social-button-link" href="#" target="_blank" data-social-key="tumblr" aria-label="Good Housekeeping Tumblr Page">
 		<span class="icon social-button-icon icon-tumblr" aria-hidden="true"></span>
 
 		
@@ -3204,19 +3202,19 @@
 </div>
 
 		
-		<ul class="footer-menu"><li class="footer-menu-item nav-item" data-id="1"><a href="subscribe/splits/goodhousekeeping/ghk_sub_nav_link?source=ghk_sub_nav_footer">Subscribe</a></li>
-<li class="footer-menu-item nav-item" data-id="2"><a href="subscribe/splits/goodhousekeeping/ghk_gift_nav_link?source=ghk_gift_nav_footer">Give GH as a Gift</a></li>
-<li class="footer-menu-item nav-item" data-id="3"><a href="http://subscribe.hearstmags.com/circulation/shared/index.html">Other Hearst Subscriptions</a></li>
-<li class="footer-menu-item nav-item" data-id="4"><a href="https://link.goodhousekeeping.com/join/3mj/ghk-newsletter" rel="nofollow">Newsletter</a></li>
-<li class="footer-menu-item nav-item" data-id="5"><a href="subscribe/splits/goodhousekeeping/ghk_digital_nav_link?source=ghk_digital_nav_footer">Digital Editions</a></li>
-<li class="footer-menu-item nav-item" data-id="6"><a href="about/a17457/about-good-housekeeping/">About Us</a></li>
-<li class="footer-menu-item nav-item" data-id="7"><a href="about/a18834/contact-us/">Contact Us</a></li>
-<li class="footer-menu-item nav-item" data-id="8"><a href="https://hearst.referrals.selectminds.com/">Work for Good Housekeeping</a></li>
-<li class="footer-menu-item nav-item" data-id="9"><a href="http://www.ghmediakit.com/r5/home.asp">Media Kit</a></li>
-<li class="footer-menu-item nav-item" data-id="10"><a href="about/a27270/advertise-online/">Advertise Online</a></li>
-<li class="footer-menu-item nav-item" data-id="11"><a href="https://w1.buysub.com/pubs/HR/GHK/GHK_nameAddrEntry_combo.jsp?cds_page_id=41097&amp;cds_mag_code=GHK&amp;id=1425413318072&amp;lsid=50621408380025723&amp;vid=1">Customer Service</a></li>
-<li class="footer-menu-item nav-item" data-id="12"><a href="promotions/">Events &amp; Promotions</a></li>
-<li class="footer-menu-item nav-item" data-id="13"><a href="http://sweepstakes.goodhousekeeping.com/">Giveaways</a></li></ul>
+		<ul class="footer-menu"><li class="footer-menu-item nav-item" data-id="1"><a href="#" "subscribe/splits/goodhousekeeping/ghk_sub_nav_link?source=ghk_sub_nav_footer">Subscribe</a></li>
+<li class="footer-menu-item nav-item" data-id="2"><a href="#" "subscribe/splits/goodhousekeeping/ghk_gift_nav_link?source=ghk_gift_nav_footer">Give GH as a Gift</a></li>
+<li class="footer-menu-item nav-item" data-id="3"><a href="#" "http://subscribe.hearstmags.com/circulation/shared/index.html">Other Hearst Subscriptions</a></li>
+<li class="footer-menu-item nav-item" data-id="4"><a href="#" "https://link.goodhousekeeping.com/join/3mj/ghk-newsletter" rel="nofollow">Newsletter</a></li>
+<li class="footer-menu-item nav-item" data-id="5"><a href="#" "subscribe/splits/goodhousekeeping/ghk_digital_nav_link?source=ghk_digital_nav_footer">Digital Editions</a></li>
+<li class="footer-menu-item nav-item" data-id="6"><a href="#" "about/a17457/about-good-housekeeping/">About Us</a></li>
+<li class="footer-menu-item nav-item" data-id="7"><a href="#" "about/a18834/contact-us/">Contact Us</a></li>
+<li class="footer-menu-item nav-item" data-id="8"><a href="#" "https://hearst.referrals.selectminds.com/">Work for Good Housekeeping</a></li>
+<li class="footer-menu-item nav-item" data-id="9"><a href="#" "http://www.ghmediakit.com/r5/home.asp">Media Kit</a></li>
+<li class="footer-menu-item nav-item" data-id="10"><a href="#" "about/a27270/advertise-online/">Advertise Online</a></li>
+<li class="footer-menu-item nav-item" data-id="11"><a href="#" "https://w1.buysub.com/pubs/HR/GHK/GHK_nameAddrEntry_combo.jsp?cds_page_id=41097&amp;cds_mag_code=GHK&amp;id=1425413318072&amp;lsid=50621408380025723&amp;vid=1">Customer Service</a></li>
+<li class="footer-menu-item nav-item" data-id="12"><a href="#" "promotions/">Events &amp; Promotions</a></li>
+<li class="footer-menu-item nav-item" data-id="13"><a href="#" "http://sweepstakes.goodhousekeeping.com/">Giveaways</a></li></ul>
 
 							
 		
@@ -3230,15 +3228,15 @@
 							<small class="footer-copyright">©2020 Hearst Magazine Media, Inc. All Rights Reserved.</small>
 			
 			
-			<ul class="footer-legal-menu"><li class="footer-legal-menu-item nav-item" data-id="1"><a href="http://www.hearst.com/newsroom/us-magazines-privacy-notice" target="_blank">Privacy Notice</a></li>
-<li class="footer-legal-menu-item nav-item" data-id="2"><a href="https://www.hearst.com/newsroom/us-magazines-privacy-notice#_ADDITIONAL_INFO" target="_blank">Your California Privacy Rights</a></li>
-<li class="footer-legal-menu-item nav-item" data-id="3"><a href="https://www.hearst.com/newsroom/us-magazines-privacy-notice#_INTEREST_BASED" target="_blank">Interest-Based Ads</a></li>
-<li class="footer-legal-menu-item nav-item" data-id="4"><a href="http://www.hearst.com/newsroom/us-magazines-terms-of-use" target="_blank">Terms of Use</a></li>
-<li class="footer-legal-menu-item nav-item" data-id="5"><a href="sitemap/">Site Map</a></li></ul>
+			<ul class="footer-legal-menu"><li class="footer-legal-menu-item nav-item" data-id="1"><a href="#" "newsroom/us-magazines-privacy-notice" target="_blank">Privacy Notice</a></li>
+<li class="footer-legal-menu-item nav-item" data-id="2"><a href="#" "https://www.hearst.com/newsroom/us-magazines-privacy-notice#_ADDITIONAL_INFO" target="_blank">Your California Privacy Rights</a></li>
+<li class="footer-legal-menu-item nav-item" data-id="3"><a href="#"  target="_blank">Interest-Based Ads</a></li>
+<li class="footer-legal-menu-item nav-item" data-id="4"><a href="#" "newsroom/us-magazines-terms-of-use" target="_blank">Terms of Use</a></li>
+<li class="footer-legal-menu-item nav-item" data-id="5"><a href="#" "sitemap/">Site Map</a></li></ul>
 
 						<ul class="footer-legal-menu footer-legal-menu-ads-free">
 				<li class="footer-legal-ads-free footer-legal-menu-item nav-item">
-					<a href="https://optout.hearstmags.com/servlet/OrdersGateway?cds_mag_code=A99&amp;cds_page_id=246801&amp;client_id=6l4fkr0k2en3n3pjmuu7kfl6o3">Do Not Sell My Info</a>
+					<a href="#" "https://optout.hearstmags.com/servlet/OrdersGateway?cds_mag_code=A99&amp;cds_page_id=246801&amp;client_id=6l4fkr0k2en3n3pjmuu7kfl6o3">Do Not Sell My Info</a>
 				</li>
 			</ul>
 								</div>
@@ -3292,5 +3290,5 @@
 		
 	
 
-<div id="amzn-assoc-ad-b1891607-c03b-40ec-a9c4-6d3d25c139e1" style="display: none;"></div><iframe id="skimlinks-pixels-iframe" style="display: none;" src="index_4.html" width="0" height="0"></iframe><iframe id="google_osd_static_frame_3453891271367" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="index_5.html"></iframe></body>
+<div id="amzn-assoc-ad-b1891607-c03b-40ec-a9c4-6d3d25c139e1" style="display: none;"></div></body>
 </html>
